@@ -34,6 +34,9 @@ Organized sections for property listings, detailed descriptions, and easy-to-use
 # 🤝 Contributing
 Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
 
+# 🌟 Acknowledgments
+This project is for educational purposes only and serves as a beginner-friendly resource to learn front-end development techniques.
+
 -Thank you for exploring this project! Feel free to contribute, provide feedback, or reach out with any questions. Happy coding! 🚀
 
 # 📫Contact
